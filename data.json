@@ -1,0 +1,16 @@
+{
+    "list": [
+        {
+          "question": "Is the sky blue?",
+          "answer": true
+        },
+        {
+          "question": "Is the earth flat?",
+          "answer": false
+        },
+        {
+          "question": "Is 2 + 2 equal to 4?",
+          "answer": true
+        }
+      ]
+}
