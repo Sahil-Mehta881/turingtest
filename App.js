@@ -39,7 +39,7 @@ const TuringTest = () => {
             <button style={{ margin: 10, backgroundColor: '#4CAF50', color: 'white', padding: 10, borderRadius: 4 }} onClick={() => handleAnswer(true)}>Human</button>
             <button style={{ margin: 10, backgroundColor: '#F44336', color: 'white', padding: 10, borderRadius: 4 }} onClick={() => handleAnswer(false)}>Chat GPT</button>
           </div>
-          <p>Is the following written by a human or Chat GPT?</p>
+          <p>Is the following writby a human or Chat GPT?</p>
           <p>{currentQuestion.question}</p>
           {feedback && <p>{feedback}</p>}
           {feedback &&
